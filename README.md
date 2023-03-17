@@ -3,3 +3,4 @@
 In this Task, I have Created a Landing Page using
 HTML5 and CSS
 for an Icecream Company 
+---used External CSS
